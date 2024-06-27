@@ -1,0 +1,12 @@
+# secret keys
+.env
+
+# Data
+*data/
+
+# cache stuff
+.ruff_cache/
+.DS_Store
+
+# development stuff
+environment.yml
